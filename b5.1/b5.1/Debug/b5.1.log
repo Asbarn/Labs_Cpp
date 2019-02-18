@@ -1,0 +1,5 @@
+﻿  b5.1.cpp
+c:\users\kober\desktop\21\b5.1\b5.1\b5.1.cpp(240): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\kober\desktop\21\b5.1\b5.1\b5.1.cpp(271): warning C4154: deletion of an array expression; conversion to pointer supplied
+c:\users\kober\desktop\21\b5.1\b5.1\b5.1.cpp(273): warning C4154: deletion of an array expression; conversion to pointer supplied
+  b5.1.vcxproj -> C:\Users\kober\Desktop\21\b5.1\Debug\b5.1.exe

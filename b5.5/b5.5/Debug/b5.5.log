@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  b5.5.cpp
+c:\users\kober\desktop\21\b5.5\b5.5\b5.5.cpp(13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\kober\desktop\21\b5.5\b5.5\b5.5.cpp(17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\kober\desktop\21\b5.5\b5.5\b5.5.cpp(38): warning C4101: 'maxx': unreferenced local variable
+c:\users\kober\desktop\21\b5.5\b5.5\b5.5.cpp(38): warning C4101: 'maxy': unreferenced local variable
+c:\users\kober\desktop\21\b5.5\b5.5\b5.5.cpp(38): warning C4101: 'max3': unreferenced local variable
+c:\users\kober\desktop\21\b5.5\b5.5\b5.5.cpp(38): warning C4101: 'max2': unreferenced local variable
+  b5.5.vcxproj -> C:\Users\kober\Desktop\21\b5.5\Debug\b5.5.exe
