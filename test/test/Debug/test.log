@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  test.cpp
+c:\users\asbarn\desktop\учеба\lab_proga\test\test\test.cpp(65): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\asbarn\desktop\учеба\lab_proga\test\test\test.cpp(74): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\asbarn\desktop\учеба\lab_proga\test\test\test.cpp(103): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\asbarn\desktop\учеба\lab_proga\test\test\test.cpp(112): warning C4018: <: несоответствие типов со знаком и без знака
+  test.vcxproj -> C:\Users\asbarn\Desktop\учеба\lab_proga\test\Debug\test.exe
