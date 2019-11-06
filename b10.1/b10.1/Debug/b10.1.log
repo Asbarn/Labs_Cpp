@@ -1,0 +1,39 @@
+﻿  pch.cpp
+  b10.1.cpp
+c:\users\asbarn\desktop\учеба\lab_proga\b10.1\b10.1\header.h(511): warning C4584: massiv: базовый класс "bicycle" уже является базовым классом для "car"
+  c:\users\asbarn\desktop\учеба\lab_proga\b10.1\b10.1\header.h(14): note:  см. объявление "bicycle"
+  c:\users\asbarn\desktop\учеба\lab_proga\b10.1\b10.1\header.h(110): note:  см. объявление "car"
+c:\users\asbarn\desktop\учеба\lab_proga\b10.1\b10.1\header.h(511): warning C4584: massiv: базовый класс "bicycle" уже является базовым классом для "taxi"
+  c:\users\asbarn\desktop\учеба\lab_proga\b10.1\b10.1\header.h(14): note:  см. объявление "bicycle"
+  c:\users\asbarn\desktop\учеба\lab_proga\b10.1\b10.1\header.h(217): note:  см. объявление "taxi"
+c:\users\asbarn\desktop\учеба\lab_proga\b10.1\b10.1\header.h(511): warning C4584: massiv: базовый класс "bicycle" уже является базовым классом для "minibus"
+  c:\users\asbarn\desktop\учеба\lab_proga\b10.1\b10.1\header.h(14): note:  см. объявление "bicycle"
+  c:\users\asbarn\desktop\учеба\lab_proga\b10.1\b10.1\header.h(322): note:  см. объявление "minibus"
+c:\users\asbarn\desktop\учеба\lab_proga\b10.1\b10.1\header.h(511): warning C4584: massiv: базовый класс "bicycle" уже является базовым классом для "bus"
+  c:\users\asbarn\desktop\учеба\lab_proga\b10.1\b10.1\header.h(14): note:  см. объявление "bicycle"
+  c:\users\asbarn\desktop\учеба\lab_proga\b10.1\b10.1\header.h(396): note:  см. объявление "bus"
+c:\users\asbarn\desktop\учеба\lab_proga\b10.1\b10.1\header.h(512): warning C4584: massiv: базовый класс "bicycle" уже является базовым классом для "underground"
+  c:\users\asbarn\desktop\учеба\lab_proga\b10.1\b10.1\header.h(14): note:  см. объявление "bicycle"
+  c:\users\asbarn\desktop\учеба\lab_proga\b10.1\b10.1\header.h(453): note:  см. объявление "underground"
+c:\users\asbarn\desktop\учеба\lab_proga\b10.1\b10.1\header.h(708): warning C4521: "massiv": заданы несколько конструкторов копий
+c:\users\asbarn\desktop\учеба\lab_proga\b10.1\b10.1\header1.h(17): warning C4584: List: базовый класс "bicycle" уже является базовым классом для "car"
+  c:\users\asbarn\desktop\учеба\lab_proga\b10.1\b10.1\header.h(14): note:  см. объявление "bicycle"
+  c:\users\asbarn\desktop\учеба\lab_proga\b10.1\b10.1\header.h(110): note:  см. объявление "car"
+c:\users\asbarn\desktop\учеба\lab_proga\b10.1\b10.1\header1.h(17): warning C4584: List: базовый класс "bicycle" уже является базовым классом для "taxi"
+  c:\users\asbarn\desktop\учеба\lab_proga\b10.1\b10.1\header.h(14): note:  см. объявление "bicycle"
+  c:\users\asbarn\desktop\учеба\lab_proga\b10.1\b10.1\header.h(217): note:  см. объявление "taxi"
+c:\users\asbarn\desktop\учеба\lab_proga\b10.1\b10.1\header1.h(17): warning C4584: List: базовый класс "bicycle" уже является базовым классом для "minibus"
+  c:\users\asbarn\desktop\учеба\lab_proga\b10.1\b10.1\header.h(14): note:  см. объявление "bicycle"
+  c:\users\asbarn\desktop\учеба\lab_proga\b10.1\b10.1\header.h(322): note:  см. объявление "minibus"
+c:\users\asbarn\desktop\учеба\lab_proga\b10.1\b10.1\header1.h(17): warning C4584: List: базовый класс "bicycle" уже является базовым классом для "bus"
+  c:\users\asbarn\desktop\учеба\lab_proga\b10.1\b10.1\header.h(14): note:  см. объявление "bicycle"
+  c:\users\asbarn\desktop\учеба\lab_proga\b10.1\b10.1\header.h(396): note:  см. объявление "bus"
+c:\users\asbarn\desktop\учеба\lab_proga\b10.1\b10.1\header1.h(18): warning C4584: List: базовый класс "bicycle" уже является базовым классом для "underground"
+  c:\users\asbarn\desktop\учеба\lab_proga\b10.1\b10.1\header.h(14): note:  см. объявление "bicycle"
+  c:\users\asbarn\desktop\учеба\lab_proga\b10.1\b10.1\header.h(453): note:  см. объявление "underground"
+c:\users\asbarn\desktop\учеба\lab_proga\b10.1\b10.1\header1.h(105): warning C4521: "List": заданы несколько конструкторов копий
+c:\users\asbarn\desktop\учеба\lab_proga\b10.1\b10.1\b10.1.cpp(10): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\asbarn\desktop\учеба\lab_proga\b10.1\b10.1\b10.1.cpp(66): warning C4101: x: неиспользованная локальная переменная
+  Source.cpp
+  Создание кода...
+  b10.1.vcxproj -> C:\Users\asbarn\Desktop\учеба\lab_proga\b10.1\Debug\b10.1.exe
