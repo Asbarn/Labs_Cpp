@@ -1,0 +1,30 @@
+﻿  pch.cpp
+  b9.1.cpp
+c:\users\asbarn\desktop\учеба\lab_proga\b9.1\b9.1\b9.1.cpp(1): warning C4005: _CRT_SECURE_NO_WARNINGS: изменение макроопределения
+  c:\users\asbarn\desktop\учеба\lab_proga\b9.1\b9.1\b9.1.cpp: note: см. предыдущее определение "_CRT_SECURE_NO_WARNINGS"
+c:\users\asbarn\desktop\учеба\lab_proga\b9.1\b9.1\b9.1.cpp(1): warning C4603: _CRT_SECURE_NO_WARNINGS: макрос не определен или определение изменилось после использования предкомпилированного заголовка
+  c:\users\asbarn\desktop\учеба\lab_proga\b9.1\b9.1\b9.1.cpp(1): note: Добавление макроопределения в предкомпилированный заголовок вместо определения его здесь
+  c:\users\asbarn\desktop\учеба\lab_proga\b9.1\b9.1\b9.1.cpp(2): note: использование предварительно скомпилированного заголовка
+c:\users\asbarn\desktop\учеба\lab_proga\b9.1\b9.1\b9.1.cpp(35): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\asbarn\desktop\учеба\lab_proga\b9.1\b9.1\b9.1.cpp(37): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\asbarn\desktop\учеба\lab_proga\b9.1\b9.1\b9.1.cpp(62): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\asbarn\desktop\учеба\lab_proga\b9.1\b9.1\b9.1.cpp(26): warning C4101: c: неиспользованная локальная переменная
+c:\users\asbarn\desktop\учеба\lab_proga\b9.1\b9.1\b9.1.cpp(104): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\asbarn\desktop\учеба\lab_proga\b9.1\b9.1\b9.1.cpp(107): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\asbarn\desktop\учеба\lab_proga\b9.1\b9.1\b9.1.cpp(123): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\asbarn\desktop\учеба\lab_proga\b9.1\b9.1\b9.1.cpp(126): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\asbarn\desktop\учеба\lab_proga\b9.1\b9.1\b9.1.cpp(195): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\asbarn\desktop\учеба\lab_proga\b9.1\b9.1\b9.1.cpp(217): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\asbarn\desktop\учеба\lab_proga\b9.1\b9.1\b9.1.cpp(218): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\asbarn\desktop\учеба\lab_proga\b9.1\b9.1\b9.1.cpp(220): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\asbarn\desktop\учеба\lab_proga\b9.1\b9.1\b9.1.cpp(223): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\asbarn\desktop\учеба\lab_proga\b9.1\b9.1\b9.1.cpp(229): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\asbarn\desktop\учеба\lab_proga\b9.1\b9.1\b9.1.cpp(230): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\asbarn\desktop\учеба\lab_proga\b9.1\b9.1\b9.1.cpp(232): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\asbarn\desktop\учеба\lab_proga\b9.1\b9.1\b9.1.cpp(235): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\asbarn\desktop\учеба\lab_proga\b9.1\b9.1\b9.1.cpp(243): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\asbarn\desktop\учеба\lab_proga\b9.1\b9.1\b9.1.cpp(246): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\asbarn\desktop\учеба\lab_proga\b9.1\b9.1\b9.1.cpp(293): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\asbarn\desktop\учеба\lab_proga\b9.1\b9.1\b9.1.cpp(211): warning C4101: a: неиспользованная локальная переменная
+c:\users\asbarn\desktop\учеба\lab_proga\b9.1\b9.1\b9.1.cpp(211): warning C4101: b: неиспользованная локальная переменная
+  b9.1.vcxproj -> C:\Users\asbarn\Desktop\учеба\lab_proga\b9.1\Debug\b9.1.exe

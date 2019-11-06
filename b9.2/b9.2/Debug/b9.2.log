@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  b9.2.cpp
+c:\users\asbarn\desktop\учеба\lab_proga\b9.2\b9.2\b9.2.cpp(1): warning C4603: _CRT_SECURE_NO_WARNINGS: макрос не определен или определение изменилось после использования предкомпилированного заголовка
+  c:\users\asbarn\desktop\учеба\lab_proga\b9.2\b9.2\b9.2.cpp(1): note: Добавление макроопределения в предкомпилированный заголовок вместо определения его здесь
+  c:\users\asbarn\desktop\учеба\lab_proga\b9.2\b9.2\b9.2.cpp(2): note: использование предварительно скомпилированного заголовка
+  b9.2.vcxproj -> C:\Users\asbarn\Desktop\учеба\lab_proga\b9.2\Debug\b9.2.exe

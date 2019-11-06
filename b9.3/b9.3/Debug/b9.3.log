@@ -1,0 +1,5 @@
+﻿  b9.3.cpp
+c:\users\asbarn\desktop\учеба\lab_proga\b9.3\b9.3\b9.3.cpp(96): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\asbarn\desktop\учеба\lab_proga\b9.3\b9.3\b9.3.cpp(121): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+c:\users\asbarn\desktop\учеба\lab_proga\b9.3\b9.3\b9.3.cpp(25): warning C4715: imp: значение возвращается не при всех путях выполнения
+  b9.3.vcxproj -> C:\Users\asbarn\Desktop\учеба\lab_proga\b9.3\Debug\b9.3.exe
